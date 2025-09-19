@@ -449,4 +449,4 @@ bootstrap().catch((err) => {
 
 #### [!DESCARGAR APP BASE!](./assets/ml-dev-nodejs-example.zip)
 
-[INICIO](./README.md) | - | [ANTERIOR](./clean-architecture-ini.md)
+[INICIO](./README.md) | - | [ANTERIOR](./clean-architecture-ini.md) | - | [SIGUIENTE](./clean-arch-logging-and-errors.md)
