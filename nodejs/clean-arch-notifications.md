@@ -1,4 +1,4 @@
-# 📬 Notificaciones
+# 📬 ⚠️ Crosscutting Concerns: Notificaciones
 
 En este módulo se va a configurar el envío de emails para reportar errores, notificaciones, etc usando el componente [`@jmlq/mailer`](https://www.npmjs.com/package/@jmlq/mailer) que usa `nodemailer`.
 
@@ -39,7 +39,7 @@ MAIL_SECURE=false
 
 # NOTIFICACIONES
 # Mail Servivicio Tecnico
-MAILER_FROM=jmlahuasiq@hotmail.com
+MAILER_FROM=mail@hotmail.com
 MAILER_ALERTS_ENABLED=true
 # INFO|WARN|ERROR
 MAILER_ALERTS_MIN_LEVEL= ERROR
